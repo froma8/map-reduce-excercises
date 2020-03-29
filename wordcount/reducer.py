@@ -1,7 +1,6 @@
 #!/home/federico/anaconda3/bin/python
 """reducer.py"""
 
-from operator import itemgetter
 import sys
 
 current_word = None
